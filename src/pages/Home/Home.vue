@@ -3,7 +3,6 @@
   <home-header></home-header>
   <home-swiper></home-swiper>
   <home-icons></home-icons>
-  Home
 </div>
 </template>
 <script>
